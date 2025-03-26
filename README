@@ -1,0 +1,55 @@
+# 🔒 Encrypted Notes & Diary with AI ✨  
+A secure, AI-powered diary that encrypts notes and provides **Summarization, Sentiment Analysis, and Keyword Extraction** features.
+
+## 🚀 Features
+- 🛡 **AES Encryption**: Ensures all notes are securely stored.
+- 📝 **Summarization**: Generates short summaries of long diary entries.
+- 😊 **Sentiment Analysis**: Detects emotions in notes.
+- 🔍 **Keyword Extraction**: Highlights important topics automatically.
+- 🎨 **Modern UI**: A sleek and user-friendly interface built with **PyQt**.
+
+## 📦 **Installation**  
+### 1️⃣ **Clone the Repository**
+```bash
+git clone https://github.com/mr-bala-kavi/secured-daily-notes-with-ai-features.git
+cd encrypted-diary
+2️⃣ Install Dependencies
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3️⃣ Run the Application
+bash
+Copy
+Edit
+python main.py
+🛠 Requirements (Dependencies)
+PyQt6==6.6.1
+textblob==0.18.0
+nltk==3.8.1
+pycryptodome==3.20.0
+🤖 AI Features
+Summarization: Uses nltk to generate short summaries.
+
+Sentiment Analysis: Detects emotions in diary entries.
+
+Keyword Extraction: Uses spaCy to highlight important topics.
+
+🎯 How to Use
+1️⃣ Open the app and log in securely.
+2️⃣ Write a note and click "Encrypt & Save".
+3️⃣ Use AI features: Click "Summarize", "Analyze Sentiment", or "Extract Keywords".
+4️⃣ Retrieve & Decrypt Notes anytime securely.
+
+📌 Future Enhancements
+🌐 Cloud backup for encrypted notes.
+
+🔥 Voice-to-Text Diary Entry.
+
+🖼 Image & File Attachment Support.
+
+📞 Contact
+Author: Mr-Bala-kavi
+
+📧 Email: balakavi64@gmail.com
+
